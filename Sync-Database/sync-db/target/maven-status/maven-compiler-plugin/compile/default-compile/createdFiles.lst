@@ -1,0 +1,4 @@
+com\webkorps\sync_db\repository\dlink\DLinkUserRepository.class
+com\webkorps\sync_db\repository\link\LinkUserRepository.class
+com\webkorps\sync_db\SyncDbApplication.class
+com\webkorps\sync_db\entity\User.class
